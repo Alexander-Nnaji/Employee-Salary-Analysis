@@ -16,7 +16,7 @@ The primary goal of this project is to analyze employee compensation data to unc
  
  power bi- Data Visualization
 
- Project objective
+### Project objective
  
 - Identify the top 5 Job titles with the highest Basepay?
 - What are the top 5 Job titles with the highest OvertimePay
@@ -24,7 +24,7 @@ The primary goal of this project is to analyze employee compensation data to unc
 - Who are the top 10 highest-earning employees. 
 
 
-### Key Insight
+### Results/findings
 
 from our analysis we were able to discover
 
