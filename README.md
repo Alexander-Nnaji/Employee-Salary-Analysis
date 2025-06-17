@@ -11,7 +11,9 @@ The primary goal of this project is to analyze employee compensation data to unc
 ### Tools
  
  Excel- data cleaning,Handling missing values
- Power bi-created new meatrics/metrics
+
+ Power bi-created new measures/metrics
+ 
  power bi- Data Visualization
 
  Project objective
@@ -102,15 +104,15 @@ Key Insight: The list is dominated by employees with recurring surnames, likely 
        Overtime pay is highest among transit operators, firefighters, and police officers. The organization should consider hiring additional staff or redistributing shifts to reduce overtime dependency, which
         could lead to long-term cost savings and improved employee well-being.
 
-  Conduct a Workforce Allocation Review
+     - Conduct a Workforce Allocation Review
     Roles like registered nurses and transit operators dominate base and total pay. This calls for a periodic review of staffing levels and pay structures to ensure that compensation aligns with workload,
     service demand, and operational efficiency.
 
-  Implement Pay Structure Audits
+     - Implement Pay Structure Audits
     The recurrence of high-earning individuals in similar job families suggests potential pay clustering. A structured audit will help ensure fairness, detect anomalies, and maintain transparency in
      compensation distribution across departments.
 
-  Enhance Budget Forecasting for Critical Departments
+      - Enhance Budget Forecasting for Critical Departments
     Since health, safety, and transportation roles account for the majority of salary expenses, these departments should be prioritized in budgeting and workforce planning to ensure uninterrupted service and          financial sustainability.
 
 Leverage Data for Strategic HR Planning
